@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/ventilator-prototype]=066EFF495355878281235838
+DEVICE_TYPE[/home/studio/workspace/ventilator-prototype]=connected
+TARGET=NUCLEO_F446RE
+TARGET_CODE=0777
